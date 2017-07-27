@@ -179,7 +179,7 @@
     "ws": "^0.8.0",
     "yargs": "^3.24.0",
     "yeoman-environment": "^1.2.7",
-    "yeoman-generator": "^0.20.3"
+    "yeoman-generator": "^0.24.1"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.0",
